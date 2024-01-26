@@ -43,7 +43,7 @@ mysql -h $ENDPOINT -u $USER -p
 ```
 create database school
 create database classes
-create enroll
+create database enroll
 ```
 
 ## 위와 같이 테이블 생성하기
